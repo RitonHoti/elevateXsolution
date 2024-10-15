@@ -1,0 +1,877 @@
+{
+    "version": "0.4",
+    "title": "Portfolios",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "36f842b1",
+            "settings": {
+                "flex_direction": "column",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kit.sociolib.com\/digitalize\/wp-content\/uploads\/sites\/3\/2024\/05\/17.jpg",
+                    "id": 319,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=7e293d1"
+                },
+                "flex_gap": {
+                    "column": "",
+                    "row": "",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": null
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "90",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                },
+                "flex_gap_tablet": {
+                    "column": "10",
+                    "row": "10",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 10
+                }
+            },
+            "elements": [
+                {
+                    "id": "67a67a4",
+                    "settings": {
+                        "title": "Our Works",
+                        "header_size": "h1",
+                        "__globals__": {
+                            "typography_typography": ""
+                        },
+                        "_animation": "fadeInUp",
+                        "align": "center",
+                        "align_mobile": "center",
+                        "typography_font_family": "Outfit",
+                        "typography_font_size": {
+                            "unit": "px",
+                            "size": 160,
+                            "sizes": []
+                        },
+                        "typography_font_size_tablet": {
+                            "unit": "px",
+                            "size": 90,
+                            "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                            "unit": "px",
+                            "size": 48,
+                            "sizes": []
+                        },
+                        "typography_font_weight": "400",
+                        "typography_line_height": {
+                            "unit": "em",
+                            "size": 0.9,
+                            "sizes": []
+                        },
+                        "typography_letter_spacing": {
+                            "unit": "em",
+                            "size": -0.035,
+                            "sizes": []
+                        },
+                        "typography_letter_spacing_tablet": {
+                            "unit": "px",
+                            "size": -1,
+                            "sizes": []
+                        },
+                        "typography_letter_spacing_mobile": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "46e869aa",
+                    "settings": {
+                        "editor": "<p>Combining creativity with technical expertise, we craft compelling digital experiences that captivate and convert.<\/p>",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 75,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=secondary"
+                        },
+                        "_animation": "fadeInUp",
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 95,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "align": "center",
+                        "align_mobile": "center",
+                        "_padding": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "_padding_widescreen": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_padding_tablet": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_padding_mobile": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "_element_width_mobile": "inherit"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "6d8941c2",
+            "settings": {
+                "flex_direction": "column",
+                "content_width": "full",
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6ac05bb9",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "10",
+                            "row": "10",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 10
+                        },
+                        "flex_gap_tablet": {
+                            "column": "0",
+                            "row": "0",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 0
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4364a299",
+                            "settings": {
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=text"
+                                },
+                                "flex_gap_tablet": {
+                                    "column": "10",
+                                    "row": "10",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "flex_gap_mobile": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "613c2bb9",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/kit.sociolib.com\/digitalize\/wp-content\/uploads\/sites\/3\/2024\/05\/12-2.jpg",
+                                            "id": 300,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "subtitle_tag": "h6",
+                                        "title": "Ocean Magz",
+                                        "subtitle": "Print",
+                                        "text_field": "",
+                                        "button_text": "Click Here",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e9c5ff0",
+                                            "subtitle_color": "globals\/colors?id=text",
+                                            "content_background_color": "globals\/colors?id=9947692",
+                                            "subtitle_typography_typography": "globals\/typography?id=accent"
+                                        },
+                                        "title_tag": "h4",
+                                        "layout": "in-box",
+                                        "link_url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "banner_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "title_margin_top": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "banner_padding_tablet": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "banner_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "qi_addons_for_elementor_banner",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "41d54f59",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/kit.sociolib.com\/digitalize\/wp-content\/uploads\/sites\/3\/2024\/05\/14.jpg",
+                                            "id": 306,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "subtitle_tag": "h6",
+                                        "title": "Robusta",
+                                        "subtitle": "Packaging",
+                                        "text_field": "",
+                                        "button_text": "Click Here",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e9c5ff0",
+                                            "subtitle_color": "globals\/colors?id=text",
+                                            "content_background_color": "globals\/colors?id=9947692",
+                                            "subtitle_typography_typography": "globals\/typography?id=accent"
+                                        },
+                                        "title_tag": "h4",
+                                        "layout": "in-box",
+                                        "link_url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "banner_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "title_margin_top": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "banner_padding_tablet": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "banner_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "_animation": "fadeInUp"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "qi_addons_for_elementor_banner",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "5229bd6c",
+                            "settings": {
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=text"
+                                },
+                                "flex_gap_tablet": {
+                                    "column": "10",
+                                    "row": "10",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "flex_gap_mobile": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "328c65a8",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/kit.sociolib.com\/digitalize\/wp-content\/uploads\/sites\/3\/2024\/05\/02.jpg",
+                                            "id": 167,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "subtitle_tag": "h6",
+                                        "title": "Calendra",
+                                        "subtitle": "App",
+                                        "text_field": "",
+                                        "button_text": "Click Here",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e9c5ff0",
+                                            "subtitle_color": "globals\/colors?id=text",
+                                            "content_background_color": "globals\/colors?id=9947692",
+                                            "subtitle_typography_typography": "globals\/typography?id=accent"
+                                        },
+                                        "title_tag": "h4",
+                                        "layout": "in-box",
+                                        "link_url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "banner_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "title_margin_top": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "banner_padding_tablet": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "banner_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_animation_delay": 200
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "qi_addons_for_elementor_banner",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "c20ea4e",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/kit.sociolib.com\/digitalize\/wp-content\/uploads\/sites\/3\/2024\/05\/16.jpg",
+                                            "id": 315,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "subtitle_tag": "h6",
+                                        "title": "Financio",
+                                        "subtitle": "Mobile",
+                                        "text_field": "",
+                                        "button_text": "Click Here",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e9c5ff0",
+                                            "subtitle_color": "globals\/colors?id=text",
+                                            "content_background_color": "globals\/colors?id=9947692",
+                                            "subtitle_typography_typography": "globals\/typography?id=accent"
+                                        },
+                                        "title_tag": "h4",
+                                        "layout": "in-box",
+                                        "link_url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "banner_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "title_margin_top": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "banner_padding_tablet": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "banner_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_animation_delay": 200
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "qi_addons_for_elementor_banner",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "6e928706",
+                            "settings": {
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=text"
+                                },
+                                "flex_gap_tablet": {
+                                    "column": "10",
+                                    "row": "10",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "flex_gap_mobile": {
+                                    "column": "20",
+                                    "row": "20",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "56456d9f",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/kit.sociolib.com\/digitalize\/wp-content\/uploads\/sites\/3\/2024\/05\/11-2.jpg",
+                                            "id": 301,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "subtitle_tag": "h6",
+                                        "title": "Wavebook",
+                                        "subtitle": "Design",
+                                        "text_field": "",
+                                        "button_text": "Click Here",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e9c5ff0",
+                                            "subtitle_color": "globals\/colors?id=text",
+                                            "content_background_color": "globals\/colors?id=9947692",
+                                            "subtitle_typography_typography": "globals\/typography?id=accent"
+                                        },
+                                        "title_tag": "h4",
+                                        "layout": "in-box",
+                                        "link_url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "banner_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "title_margin_top": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "banner_padding_tablet": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "banner_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_animation_delay": 400
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "qi_addons_for_elementor_banner",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "28913fde",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/kit.sociolib.com\/digitalize\/wp-content\/uploads\/sites\/3\/2024\/05\/13-2.jpg",
+                                            "id": 305,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "subtitle_tag": "h6",
+                                        "title": "Logiboard",
+                                        "subtitle": "Branding",
+                                        "text_field": "",
+                                        "button_text": "Click Here",
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=e9c5ff0",
+                                            "subtitle_color": "globals\/colors?id=text",
+                                            "content_background_color": "globals\/colors?id=9947692",
+                                            "subtitle_typography_typography": "globals\/typography?id=accent"
+                                        },
+                                        "title_tag": "h4",
+                                        "layout": "in-box",
+                                        "link_url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "banner_padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "title_margin_top": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "banner_padding_tablet": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "banner_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": true
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_animation_delay": 400
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "qi_addons_for_elementor_banner",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "3b12d17",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 120,
+                    "column": "120",
+                    "row": "0"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=text"
+                },
+                "flex_gap_tablet": {
+                    "column": "40",
+                    "row": "40",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 40
+                },
+                "flex_gap_mobile": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "10",
+                    "bottom": "30",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "115056c6",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 33.3
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "346d840a",
+                            "settings": {
+                                "title": "Satisfied Clients",
+                                "title_tag": "p",
+                                "title_position": "end",
+                                "title_horizontal_alignment": "start",
+                                "title_vertical_alignment": "center",
+                                "number_position": "center",
+                                "__globals__": {
+                                    "typography_number_typography": "globals\/typography?id=8352cd5",
+                                    "typography_title_typography": "globals\/typography?id=text"
+                                },
+                                "counter-title": "Projects Completed",
+                                "ending_number": 25,
+                                "suffix": "k",
+                                "_animation": "fadeInUp",
+                                "title_horizontal_alignment_mobile": "start"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "66332865",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 33.3
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "380438db",
+                            "settings": {
+                                "title": "Email Subscribers",
+                                "title_tag": "h5",
+                                "title_position": "end",
+                                "title_horizontal_alignment": "start",
+                                "title_vertical_alignment": "center",
+                                "number_position": "center",
+                                "__globals__": {
+                                    "typography_number_typography": "globals\/typography?id=8352cd5",
+                                    "typography_title_typography": "globals\/typography?id=text"
+                                },
+                                "counter-title": "Projects Completed",
+                                "ending_number": 13,
+                                "suffix": "m",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "24228c07",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 33.3
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "520d8b30",
+                            "settings": {
+                                "title": "Creative People ",
+                                "title_tag": "h5",
+                                "title_position": "end",
+                                "title_horizontal_alignment": "start",
+                                "title_vertical_alignment": "center",
+                                "number_position": "center",
+                                "__globals__": {
+                                    "typography_number_typography": "globals\/typography?id=8352cd5",
+                                    "typography_title_typography": "globals\/typography?id=text"
+                                },
+                                "counter-title": "Projects Completed",
+                                "ending_number": 86,
+                                "suffix": "+",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "counter",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

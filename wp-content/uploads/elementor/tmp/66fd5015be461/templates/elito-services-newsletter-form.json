@@ -1,0 +1,156 @@
+{
+    "version": "0.4",
+    "title": "Elito-Services Newsletter form",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-contact",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "49bd629b",
+            "settings": {
+                "flex_direction": "column",
+                "element_pack_agbg_color_list": [
+                    {
+                        "_id": "4f4b43a"
+                    },
+                    {
+                        "start_color": "#567445",
+                        "end_color": "#1D1BE0",
+                        "_id": "5e0e34d"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "38b11487",
+                    "settings": {
+                        "mf_input_label_status": "",
+                        "mf_input_label": "Email",
+                        "mf_input_name": "mf-email",
+                        "mf_input_placeholder": "Email Address",
+                        "mf_input_required": "yes",
+                        "mf_input_validation_warning_message": "This field is required.",
+                        "mf_input_padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "150",
+                            "isLinked": false
+                        },
+                        "mf_input_background_background": "classic",
+                        "mf_input_border_border": "none",
+                        "mf_input_border_radius": {
+                            "unit": "px",
+                            "size": 10,
+                            "sizes": []
+                        },
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out",
+                        "__globals__": {
+                            "mf_input_background_color": "globals\/colors?id=c74bd4b",
+                            "mf_input_color": "globals\/colors?id=text",
+                            "mf_input_color_hover": "globals\/colors?id=text",
+                            "mf_input_color_focus": "globals\/colors?id=text",
+                            "mf_input_typgraphy_typography": "globals\/typography?id=primary",
+                            "mf_input_place_holder_typography_typography": "globals\/typography?id=primary",
+                            "mf_input_placeholder_color": "globals\/colors?id=text"
+                        },
+                        "mf_input_padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "30",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-email",
+                    "elType": "widget"
+                },
+                {
+                    "id": "e9db3bb",
+                    "settings": {
+                        "mf_btn_text": "Sign Up",
+                        "mf_hidden_input": [],
+                        "mf_btn_text_padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "180",
+                            "bottom": "20",
+                            "left": "170",
+                            "isLinked": false
+                        },
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out",
+                        "mf_btn_bg_color_background": "classic",
+                        "mf_btn_border_radius": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "mf_btn_bg_color_color": "globals\/colors?id=primary",
+                            "mf_btn_typography_typography": "globals\/typography?id=secondary"
+                        },
+                        "mf_btn_shadow_text_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": "",
+                            "color": "rgba(0,0,0,0.3)"
+                        },
+                        "mf_btn_box_shadow_group_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": "",
+                            "spread": 0,
+                            "color": "rgba(0,0,0,0.5)"
+                        },
+                        "mf_btn_align_tablet": "center",
+                        "mf_btn_text_padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "70",
+                            "bottom": "10",
+                            "left": "70",
+                            "isLinked": false
+                        },
+                        "_element_width_tablet": "initial",
+                        "_element_custom_width_tablet": {
+                            "unit": "%",
+                            "size": 100
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_flex_size": "none"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "ep_grid_line_columns": "",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

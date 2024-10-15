@@ -1,0 +1,143 @@
+{
+    "version": "0.4",
+    "title": "Elito-404-Error-Page",
+    "type": "section",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "71679088",
+            "settings": {
+                "flex_direction": "column",
+                "min_height": {
+                    "unit": "px",
+                    "size": 1000,
+                    "sizes": []
+                },
+                "flex_justify_content": "center",
+                "flex_align_items": "center",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/main-bg.jpg",
+                    "id": 2817,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "element_pack_agbg_color_list": [
+                    {
+                        "_id": "6b7dc9e"
+                    },
+                    {
+                        "start_color": "#567445",
+                        "end_color": "#1D1BE0",
+                        "_id": "cdd03f0"
+                    }
+                ],
+                "min_height_tablet": {
+                    "unit": "px",
+                    "size": 800,
+                    "sizes": []
+                },
+                "min_height_mobile": {
+                    "unit": "px",
+                    "size": 600,
+                    "sizes": []
+                },
+                "background_position": "center center",
+                "background_attachment": "scroll",
+                "background_repeat": "no-repeat",
+                "background_size": "cover"
+            },
+            "elements": [
+                {
+                    "id": "4204500c",
+                    "settings": {
+                        "title": "Oops! Page Not Found!!",
+                        "align": "center",
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=5dbb1d5"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "70a09fca",
+                    "settings": {
+                        "title": "404 Error\n",
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=894e17e"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "6faa8be0",
+                    "settings": {
+                        "editor": "<p>We\u2019re sorry but we can\u2019t seem to find the page you requested. This might be because you have typed the web address incorrectly.<\/p>",
+                        "align": "center",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "px",
+                            "size": 600,
+                            "sizes": []
+                        },
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out",
+                        "__globals__": {
+                            "text_color": "globals\/colors?id=text",
+                            "typography_typography": "globals\/typography?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-editor",
+                    "elType": "widget"
+                },
+                {
+                    "id": "17e81392",
+                    "settings": {
+                        "text": "Back to Home",
+                        "link": {
+                            "url": "https:\/\/wpolive.com\/elitokit\/",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "ep_grid_line_columns": "",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

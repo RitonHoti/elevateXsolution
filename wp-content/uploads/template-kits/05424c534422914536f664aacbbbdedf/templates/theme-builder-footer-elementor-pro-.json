@@ -1,0 +1,845 @@
+{
+    "version": "0.4",
+    "title": "Theme Builder &#8211; Footer (Elementor Pro)",
+    "type": "footer",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "footer",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Footer\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "71c84662",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "1250",
+                    "sizes": []
+                },
+                "gap": "no",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "1",
+                    "bottom": "2",
+                    "left": "1",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "2",
+                    "bottom": "2",
+                    "left": "2",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "543b79d7",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "1e8baeae",
+                            "settings": {
+                                "layout": "full_width",
+                                "gap": "no",
+                                "structure": "21"
+                            },
+                            "elements": [
+                                {
+                                    "id": "383c1dbc",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "_inline_size": "30",
+                                        "margin": {
+                                            "unit": "%",
+                                            "top": "0",
+                                            "right": "20",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "3",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "2",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        },
+                                        "_inline_size_tablet": "100",
+                                        "padding_tablet": {
+                                            "unit": "%",
+                                            "top": "0",
+                                            "right": "20",
+                                            "bottom": "0",
+                                            "left": "20",
+                                            "isLinked": ""
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "%",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "45c51a14",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/hirework-logo.png",
+                                                    "id": "1183",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "title_text": "",
+                                                "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec.",
+                                                "title_size": "h6",
+                                                "image_space_tablet": {
+                                                    "unit": "px",
+                                                    "size": "4",
+                                                    "sizes": []
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": "72",
+                                                    "sizes": []
+                                                },
+                                                "image_size_tablet": {
+                                                    "unit": "%",
+                                                    "size": "58",
+                                                    "sizes": []
+                                                },
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": "66",
+                                                    "sizes": []
+                                                },
+                                                "image_border_border": "none",
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "text_align": "left",
+                                                "text_align_tablet": "center",
+                                                "text_align_mobile": "left",
+                                                "__globals__": {
+                                                    "description_typography_typography": "globals\/typography?id=d004e34"
+                                                },
+                                                "link": {
+                                                    "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "f3a894d",
+                                    "settings": {
+                                        "_column_size": "66",
+                                        "_inline_size": "69.665",
+                                        "_inline_size_tablet": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5438be57",
+                                            "settings": {
+                                                "layout": "full_width",
+                                                "gap": "no",
+                                                "structure": "40"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "36202ef",
+                                                    "settings": {
+                                                        "_column_size": "25",
+                                                        "_inline_size": "22",
+                                                        "_inline_size_tablet": "20",
+                                                        "margin_mobile": {
+                                                            "unit": "em",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "2",
+                                                            "left": "0",
+                                                            "isLinked": ""
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "36ddbafd",
+                                                            "settings": {
+                                                                "title": "Navigation",
+                                                                "header_size": "h6"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "496f2b1d",
+                                                            "settings": {
+                                                                "icon_list": [
+                                                                    {
+                                                                        "text": "Home",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "_id": "a7cec35",
+                                                                        "link": {
+                                                                            "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "text": "Job list",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/job-list\/",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "f2bb165"
+                                                                    },
+                                                                    {
+                                                                        "text": "Companies",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/companies\/",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "5203357"
+                                                                    },
+                                                                    {
+                                                                        "text": "Pricing",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/pricing\/",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "8c4a6a3"
+                                                                    }
+                                                                ],
+                                                                "space_between": {
+                                                                    "unit": "px",
+                                                                    "size": "8",
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "text_color": "globals\/colors?id=text",
+                                                                    "icon_typography_typography": "globals\/typography?id=text"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": "1",
+                                                    "elType": "column"
+                                                },
+                                                {
+                                                    "id": "4762042a",
+                                                    "settings": {
+                                                        "_column_size": "25",
+                                                        "_inline_size": "20",
+                                                        "_inline_size_tablet": "19",
+                                                        "margin_mobile": {
+                                                            "unit": "em",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "2",
+                                                            "left": "0",
+                                                            "isLinked": ""
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "6e2676fd",
+                                                            "settings": {
+                                                                "title": "Company",
+                                                                "header_size": "h6"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "36e64312",
+                                                            "settings": {
+                                                                "icon_list": [
+                                                                    {
+                                                                        "text": "About us",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "_id": "a7cec35",
+                                                                        "link": {
+                                                                            "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/about-us\/",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "text": "Our team",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/team\/",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "f2bb165"
+                                                                    },
+                                                                    {
+                                                                        "text": "Read FAQ",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/faq\/",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "5203357"
+                                                                    },
+                                                                    {
+                                                                        "text": "Contact",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/contact\/",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "8c4a6a3"
+                                                                    }
+                                                                ],
+                                                                "space_between": {
+                                                                    "unit": "px",
+                                                                    "size": "8",
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "text_color": "globals\/colors?id=text",
+                                                                    "icon_typography_typography": "globals\/typography?id=text"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": "1",
+                                                    "elType": "column"
+                                                },
+                                                {
+                                                    "id": "653a5879",
+                                                    "settings": {
+                                                        "_column_size": "25",
+                                                        "_inline_size": "27",
+                                                        "_inline_size_tablet": "30",
+                                                        "margin_mobile": {
+                                                            "unit": "em",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "2",
+                                                            "left": "0",
+                                                            "isLinked": ""
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "59c5dcf0",
+                                                            "settings": {
+                                                                "title": "Contact",
+                                                                "header_size": "h6"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "7ff162f2",
+                                                            "settings": {
+                                                                "icon_list": [
+                                                                    {
+                                                                        "text": "+1 234 567 89 10",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "_id": "a7cec35",
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "text": "help@support.com",
+                                                                        "selected_icon": {
+                                                                            "value": "",
+                                                                            "library": ""
+                                                                        },
+                                                                        "link": {
+                                                                            "url": "#",
+                                                                            "is_external": "",
+                                                                            "nofollow": "",
+                                                                            "custom_attributes": ""
+                                                                        },
+                                                                        "_id": "f2bb165"
+                                                                    }
+                                                                ],
+                                                                "space_between": {
+                                                                    "unit": "px",
+                                                                    "size": "8",
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "text_color": "globals\/colors?id=text",
+                                                                    "icon_typography_typography": "globals\/typography?id=text"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon-list",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": "1",
+                                                    "elType": "column"
+                                                },
+                                                {
+                                                    "id": "19426ab8",
+                                                    "settings": {
+                                                        "_column_size": "25",
+                                                        "_inline_size": "31",
+                                                        "_inline_size_tablet": "31",
+                                                        "margin_mobile": {
+                                                            "unit": "em",
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": "",
+                                                            "isLinked": ""
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "3b47f21",
+                                                            "settings": {
+                                                                "title": "Offices",
+                                                                "header_size": "h6"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "6acfe019",
+                                                            "settings": {
+                                                                "editor": "<p>8880 Santa Monica Blvd<br \/>Suite 84562<br \/>West Hollywood, CA 90069<\/p>"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": "1",
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": "1",
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "9dd1ad0",
+                            "settings": {
+                                "space_tablet": {
+                                    "unit": "px",
+                                    "size": "10",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2e8bf850",
+                            "settings": {
+                                "text": "Divider",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": "16",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": "globals\/colors?id=6d6595e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "73c5e400",
+                            "settings": {
+                                "layout": "full_width",
+                                "gap": "no",
+                                "content_position": "middle",
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "5bd63bb",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "_inline_size": "20",
+                                        "_inline_size_tablet": "27",
+                                        "margin": {
+                                            "unit": "%",
+                                            "top": "0",
+                                            "right": "10",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "%",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": "1"
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "1",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2dd21ce6",
+                                            "settings": {
+                                                "title": "Find your next great opportunity!",
+                                                "header_size": "h6",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2a664158",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "_inline_size": "34.664",
+                                        "_inline_size_tablet": "42",
+                                        "margin_mobile": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "2",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3c65c30",
+                                            "settings": {
+                                                "form_name": "New Form",
+                                                "form_fields": [
+                                                    {
+                                                        "custom_id": "email",
+                                                        "field_type": "email",
+                                                        "required": "true",
+                                                        "field_label": "Email",
+                                                        "placeholder": "Enter your email",
+                                                        "width": "66",
+                                                        "_id": "5bfd68f",
+                                                        "width_tablet": "60"
+                                                    }
+                                                ],
+                                                "input_size": "md",
+                                                "show_labels": "",
+                                                "button_size": "md",
+                                                "button_width": "33",
+                                                "button_width_tablet": "40",
+                                                "step_next_label": "Next",
+                                                "step_previous_label": "Previous",
+                                                "button_text": "Subscribe",
+                                                "email_content": "[all-fields]",
+                                                "email_content_2": "[all-fields]",
+                                                "success_message": "The form was sent successfully.",
+                                                "error_message": "An error occurred.",
+                                                "required_field_message": "This field is required.",
+                                                "invalid_message": "There&#039;s something wrong. The form is invalid.",
+                                                "field_border_width": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": "1"
+                                                },
+                                                "button_text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": "1"
+                                                },
+                                                "_border_border": "solid",
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": "1"
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "16",
+                                                    "right": "16",
+                                                    "bottom": "16",
+                                                    "left": "16",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "_border_color": "globals\/colors?id=6d6595e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "form",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "22d2bdb3",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "_inline_size": "45",
+                                        "_inline_size_tablet": "31",
+                                        "content_position": "bottom",
+                                        "content_position_tablet": "center",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "130d67cf",
+                                            "settings": {
+                                                "social_icon_list": [
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "1d672c6"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "b42b638"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "0d9aa2a"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-linkedin-in",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "4772b0b"
+                                                    }
+                                                ],
+                                                "shape": "circle",
+                                                "align": "right",
+                                                "align_tablet": "right",
+                                                "align_mobile": "left",
+                                                "icon_color": "custom",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "20",
+                                                    "sizes": []
+                                                },
+                                                "icon_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": "18",
+                                                    "sizes": []
+                                                },
+                                                "icon_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": "21",
+                                                    "sizes": []
+                                                },
+                                                "icon_padding": {
+                                                    "unit": "em",
+                                                    "size": "0.5",
+                                                    "sizes": []
+                                                },
+                                                "icon_spacing": {
+                                                    "unit": "px",
+                                                    "size": "12",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_primary_color": "globals\/colors?id=6d6595e",
+                                                    "icon_secondary_color": "globals\/colors?id=primary",
+                                                    "hover_primary_color": "globals\/colors?id=primary",
+                                                    "hover_secondary_color": "globals\/colors?id=2ae8cc4"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "social-icons",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ]
+}

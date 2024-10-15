@@ -1,0 +1,795 @@
+{
+    "version": "0.4",
+    "title": "Footer",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "4992dda3",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 0,
+                    "column": "0",
+                    "row": "0"
+                },
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1320,
+                    "sizes": []
+                },
+                "flex_direction_tablet": "row",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/footer-bg.jpg",
+                    "id": 2816,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "top center",
+                "background_attachment": "scroll",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "element_pack_agbg_color_list": [
+                    {
+                        "_id": "d80934f"
+                    },
+                    {
+                        "start_color": "#567445",
+                        "end_color": "#1D1BE0",
+                        "_id": "943cbcf"
+                    }
+                ],
+                "padding": {
+                    "unit": "px",
+                    "top": "126",
+                    "right": "0",
+                    "bottom": "126",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6a262224",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 30
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 34,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_justify_content_mobile": "center",
+                        "flex_align_items_mobile": "flex-start",
+                        "element_pack_agbg_color_list": [
+                            {
+                                "_id": "fc87ee2"
+                            },
+                            {
+                                "start_color": "#567445",
+                                "end_color": "#1D1BE0",
+                                "_id": "2c3bdb5"
+                            }
+                        ],
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "1",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_flex_size": "none",
+                        "_element_width": "initial",
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=a551d12"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7d3134c6",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Logo2.png",
+                                    "id": 2396,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "left",
+                                "align_mobile": "center",
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out",
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-home-page\/",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "36511d3f",
+                            "settings": {
+                                "editor": "Welcome and open yourself to your truest love this year with us! With the Release Process",
+                                "align_mobile": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out",
+                                "_element_width": "initial",
+                                "_element_width_mobile": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 94,
+                                    "sizes": []
+                                },
+                                "_element_custom_width_mobile": {
+                                    "unit": "px",
+                                    "size": 310,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "67541775",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "",
+                                        "selected_icon": {
+                                            "value": "jki jki-facebook-f",
+                                            "library": "jkiticon"
+                                        },
+                                        "_id": "66f47c9"
+                                    },
+                                    {
+                                        "text": "",
+                                        "selected_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "80cf6f2"
+                                    },
+                                    {
+                                        "text": "",
+                                        "selected_icon": {
+                                            "value": "icon icon-linkedin",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "5395a3f"
+                                    },
+                                    {
+                                        "text": "",
+                                        "selected_icon": {
+                                            "value": "jki jki-pinterest-light",
+                                            "library": "jkiticon"
+                                        },
+                                        "_id": "d134c9b"
+                                    },
+                                    {
+                                        "text": "",
+                                        "selected_icon": {
+                                            "value": "fab fa-vimeo-v",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "50ba48e"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out",
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=c7e4389"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "36b8c5ea",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "25"
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 25,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_justify_content_mobile": "center",
+                        "flex_align_items": "flex-start",
+                        "flex_align_items_mobile": "flex-start",
+                        "element_pack_agbg_color_list": [
+                            {
+                                "_id": "73415dc"
+                            },
+                            {
+                                "start_color": "#567445",
+                                "end_color": "#1D1BE0",
+                                "_id": "25cc3fd"
+                            }
+                        ],
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_flex_align_self_mobile": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "223bd125",
+                            "settings": {
+                                "title": "Navigation\n",
+                                "header_size": "h4",
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "230d10a",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "-About us",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "7392c59",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-about-page\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "-Contact us",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "bb78a51",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-contact\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "-Video Guide",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "a81833e"
+                                    },
+                                    {
+                                        "text": "-Recent Post",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "9af2057",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-blog-right-sidebar\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "icon_align_mobile": "left",
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out",
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=primary",
+                                    "text_color": "globals\/colors?id=c7e4389",
+                                    "text_color_hover": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "a4b98a0",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "25"
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_justify_content_mobile": "center",
+                        "flex_align_items": "flex-start",
+                        "flex_align_items_mobile": "flex-start",
+                        "element_pack_agbg_color_list": [
+                            {
+                                "_id": "73415dc"
+                            },
+                            {
+                                "start_color": "#567445",
+                                "end_color": "#1D1BE0",
+                                "_id": "25cc3fd"
+                            }
+                        ],
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "383fa8a8",
+                            "settings": {
+                                "title": "All Services\n\n",
+                                "header_size": "h4",
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "360c89f0",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "-Web Design",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "7392c59",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/the-internet-tend-to-repeatpredefined-chunks\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "-Web Development",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "bb78a51",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/the-standard-chunk-of-usedsince-the-interested\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "-Brand Identity",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "a81833e"
+                                    },
+                                    {
+                                        "text": "-Digital Marketing",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "9af2057"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "icon_align_mobile": "left",
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out",
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=primary",
+                                    "text_color": "globals\/colors?id=c7e4389",
+                                    "text_color_hover": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "27d977b8",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "25"
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_justify_content_mobile": "center",
+                        "flex_align_items": "flex-start",
+                        "flex_align_items_mobile": "flex-start",
+                        "element_pack_agbg_color_list": [
+                            {
+                                "_id": "73415dc"
+                            },
+                            {
+                                "start_color": "#567445",
+                                "end_color": "#1D1BE0",
+                                "_id": "25cc3fd"
+                            }
+                        ],
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4d1f8b9c",
+                            "settings": {
+                                "title": "Useful Link\n",
+                                "header_size": "h4",
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1467e7a4",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "-Home Page",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "7392c59",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-home-page\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "-Protfolio",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "bb78a51",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-portfolio-grid\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "-Services",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "a81833e",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-service-page\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "-Contact Us",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "9af2057",
+                                        "link": {
+                                            "url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-contact\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "icon_align_mobile": "left",
+                                "element_pack_widget_tooltip_text": "This is Tooltip",
+                                "element_pack_widget_effect_transition_duration": "300",
+                                "element_pack_widget_effect_transition_easing": "ease-out",
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=primary",
+                                    "text_color": "globals\/colors?id=c7e4389",
+                                    "text_color_hover": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "692d0d96",
+            "settings": {
+                "flex_direction": "column",
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1320,
+                    "sizes": []
+                },
+                "flex_justify_content": "center",
+                "flex_align_items": "center",
+                "background_background": "classic",
+                "element_pack_agbg_color_list": [
+                    {
+                        "_id": "9070f8e"
+                    },
+                    {
+                        "start_color": "#567445",
+                        "end_color": "#1D1BE0",
+                        "_id": "60549d7"
+                    }
+                ],
+                "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "20",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=c7f1543"
+                }
+            },
+            "elements": [
+                {
+                    "id": "49c95136",
+                    "settings": {
+                        "title": "Copyright \u00a9 2023 Elito. All rights reserved.",
+                        "header_size": "p",
+                        "align": "center",
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out",
+                        "__globals__": {
+                            "title_color": "globals\/colors?id=text",
+                            "typography_typography": "globals\/typography?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "ep_grid_line_columns": "",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

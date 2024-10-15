@@ -1,0 +1,1331 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Hirework",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular",
+                    "exclude\/singular\/in_category\/19",
+                    "exclude\/singular\/in_category\/20",
+                    "exclude\/singular\/in_category\/21"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Search Results",
+            "screenshot": "screenshots\/search-results.jpg",
+            "source": "templates\/search-results.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/?elementor_library=search-results",
+            "type": "search-results",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-search",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "search-results",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_tag"
+                ],
+                "additional_template_information": [
+                    "This is a \"Search Results\" template for Elementor Pro.",
+                    "This template will display on: Tags."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Job Detail",
+            "screenshot": "screenshots\/job-detail.jpg",
+            "source": "templates\/job-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/?elementor_library=job-detail",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/in_category\/19",
+                    "include\/singular\/in_category\/20",
+                    "include\/singular\/in_category\/21",
+                    "exclude\/singular\/in_category\/48"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: In Category #21."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "09-Contact",
+            "screenshot": "screenshots\/09-contact.jpg",
+            "source": "templates\/09-contact.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/09-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "08-FAQ",
+            "screenshot": "screenshots\/08-faq.jpg",
+            "source": "templates\/08-faq.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/08-faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "07-Team",
+            "screenshot": "screenshots\/07-team.jpg",
+            "source": "templates\/07-team.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/07-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "06-About Us",
+            "screenshot": "screenshots\/06-about-us.jpg",
+            "source": "templates\/06-about-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/06-about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "05-Pricing",
+            "screenshot": "screenshots\/05-pricing.jpg",
+            "source": "templates\/05-pricing.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/05-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "04-Articles",
+            "screenshot": "screenshots\/04-articles.jpg",
+            "source": "templates\/04-articles.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/04-companies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "03-Solutions",
+            "screenshot": "screenshots\/03-solutions.jpg",
+            "source": "templates\/03-solutions.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/03-solutions\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "02-Job List",
+            "screenshot": "screenshots\/02-job-list.jpg",
+            "source": "templates\/02-job-list.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/02-job-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "01-Homepage",
+            "screenshot": "screenshots\/01-homepage.jpg",
+            "source": "templates\/01-homepage.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/template-kit\/01-homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder - Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/?elementor_library=footer-elementor-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder - Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/?elementor_library=header-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-innerpage-v2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/bg-innerpage-v2-800x311.png",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                },
+                {
+                    "source": "templates\/09-contact.json",
+                    "name": "09-Contact"
+                },
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/04-articles.json",
+                    "name": "04-Articles"
+                },
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                },
+                {
+                    "source": "templates\/02-job-list.json",
+                    "name": "02-Job List"
+                }
+            ],
+            "filesize": 97467,
+            "dimensions": [
+                1920,
+                747
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404-image.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2023\/01\/404-image.png",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 46205,
+            "dimensions": [
+                468,
+                434
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/page-not-found-web-illustrations-8WNTQUS"
+        },
+        {
+            "filename": "bg-cta-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/bg-cta-2-800x333.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/job-detail.json",
+                    "name": "Job Detail"
+                },
+                {
+                    "source": "templates\/09-contact.json",
+                    "name": "09-Contact"
+                },
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/05-pricing.json",
+                    "name": "05-Pricing"
+                },
+                {
+                    "source": "templates\/04-articles.json",
+                    "name": "04-Articles"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 119505,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-contact.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/image-contact.jpg",
+            "templates": [
+                {
+                    "source": "templates\/09-contact.json",
+                    "name": "09-Contact"
+                }
+            ],
+            "filesize": 41289,
+            "dimensions": [
+                500,
+                280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-working-in-call-center-LA528DB"
+        },
+        {
+            "filename": "review-5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/review-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/09-contact.json",
+                    "name": "09-Contact"
+                },
+                {
+                    "source": "templates\/05-pricing.json",
+                    "name": "05-Pricing"
+                },
+                {
+                    "source": "templates\/04-articles.json",
+                    "name": "04-Articles"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 33017,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lovely-brunette-woman-with-eastern-appearance-keep-M9TGHJN"
+        },
+        {
+            "filename": "review-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/review-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/09-contact.json",
+                    "name": "09-Contact"
+                },
+                {
+                    "source": "templates\/05-pricing.json",
+                    "name": "05-Pricing"
+                },
+                {
+                    "source": "templates\/04-articles.json",
+                    "name": "04-Articles"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 29922,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-bearded-european-man-with-curious-gaze-we-HQRUP94"
+        },
+        {
+            "filename": "company-logo-2-v2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/company-logo-2-v2.png",
+            "templates": [
+                {
+                    "source": "templates\/09-contact.json",
+                    "name": "09-Contact"
+                },
+                {
+                    "source": "templates\/05-pricing.json",
+                    "name": "05-Pricing"
+                },
+                {
+                    "source": "templates\/04-articles.json",
+                    "name": "04-Articles"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 1205,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "company-logo-3-v2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/company-logo-3-v2.png",
+            "templates": [
+                {
+                    "source": "templates\/09-contact.json",
+                    "name": "09-Contact"
+                },
+                {
+                    "source": "templates\/05-pricing.json",
+                    "name": "05-Pricing"
+                },
+                {
+                    "source": "templates\/04-articles.json",
+                    "name": "04-Articles"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 1226,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "company-logo-5-v2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/company-logo-5-v2.png",
+            "templates": [
+                {
+                    "source": "templates\/09-contact.json",
+                    "name": "09-Contact"
+                },
+                {
+                    "source": "templates\/05-pricing.json",
+                    "name": "05-Pricing"
+                },
+                {
+                    "source": "templates\/04-articles.json",
+                    "name": "04-Articles"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 841,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "quote-icon.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/quote-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 2048,
+            "dimensions": [
+                260,
+                194
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "element-mask.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/element-mask.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                },
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 58978,
+            "dimensions": [
+                306,
+                241
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-testimonial.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/image-testimonial.jpg",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 32345,
+            "dimensions": [
+                585,
+                449
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-software-developer-W9YG9M2"
+        },
+        {
+            "filename": "element-mask-dot-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/element-mask-dot-2.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 3392,
+            "dimensions": [
+                400,
+                424
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo06.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/logo06.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 4550,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo08.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/logo08.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 1936,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/logo03.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 3788,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/logo02.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 1931,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/logo04.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 13639,
+            "dimensions": [
+                420,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-cta.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/bg-cta-800x233.png",
+            "templates": [
+                {
+                    "source": "templates\/08-faq.json",
+                    "name": "08-FAQ"
+                },
+                {
+                    "source": "templates\/04-articles.json",
+                    "name": "04-Articles"
+                },
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                },
+                {
+                    "source": "templates\/02-job-list.json",
+                    "name": "02-Job List"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 44969,
+            "dimensions": [
+                1200,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/team-01.png",
+            "templates": [
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                }
+            ],
+            "filesize": 70651,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/team-04.png",
+            "templates": [
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                }
+            ],
+            "filesize": 71551,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-05.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/team-05.png",
+            "templates": [
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                }
+            ],
+            "filesize": 77566,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-07.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/team-07.png",
+            "templates": [
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                }
+            ],
+            "filesize": 71624,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-06.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/team-06.png",
+            "templates": [
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                }
+            ],
+            "filesize": 74924,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "team-08.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/team-08.png",
+            "templates": [
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                }
+            ],
+            "filesize": 70356,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eight-avatars-of-young-people-3d-illustration-RM7PLH9"
+        },
+        {
+            "filename": "image-about-us.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/image-about-us-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/07-team.json",
+                    "name": "07-Team"
+                },
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                }
+            ],
+            "filesize": 181135,
+            "dimensions": [
+                1440,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-young-creative-designers-in-casualwear-VQ8QJTA"
+        },
+        {
+            "filename": "element-mask-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/element-mask-2.png",
+            "templates": [
+                {
+                    "source": "templates\/06-about-us.json",
+                    "name": "06-About Us"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 84271,
+            "dimensions": [
+                401,
+                315
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "solutions-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2023\/01\/solutions-01.png",
+            "templates": [
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                }
+            ],
+            "filesize": 24545,
+            "dimensions": [
+                526,
+                421
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/recruitment-web-illustrations-74NE7YW"
+        },
+        {
+            "filename": "solutions-11.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2023\/01\/solutions-11.png",
+            "templates": [
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                }
+            ],
+            "filesize": 29916,
+            "dimensions": [
+                527,
+                455
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/recruitment-web-illustrations-74NE7YW"
+        },
+        {
+            "filename": "solutions-08.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2023\/01\/solutions-08.png",
+            "templates": [
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                }
+            ],
+            "filesize": 21005,
+            "dimensions": [
+                555,
+                393
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/recruitment-web-illustrations-74NE7YW"
+        },
+        {
+            "filename": "solutions-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2023\/01\/solutions-04.png",
+            "templates": [
+                {
+                    "source": "templates\/03-solutions.json",
+                    "name": "03-Solutions"
+                }
+            ],
+            "filesize": 23592,
+            "dimensions": [
+                554,
+                391
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/recruitment-web-illustrations-74NE7YW"
+        },
+        {
+            "filename": "job-location-04.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/job-location-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/02-job-list.json",
+                    "name": "02-Job List"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 107027,
+            "dimensions": [
+                492,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-skyscrapers-buildings-in-istanbul-city-8QZQ8N2"
+        },
+        {
+            "filename": "job-location-03.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/job-location-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/02-job-list.json",
+                    "name": "02-Job List"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 80447,
+            "dimensions": [
+                493,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/palace-of-westminster-P2M3JMQ"
+        },
+        {
+            "filename": "job-location-02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/job-location-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/02-job-list.json",
+                    "name": "02-Job List"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 76945,
+            "dimensions": [
+                493,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/view-of-manhattan-at-sunset-HKVJTN6"
+        },
+        {
+            "filename": "job-location-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/job-location-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/02-job-list.json",
+                    "name": "02-Job List"
+                },
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 64180,
+            "dimensions": [
+                492,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/software-developer-writing-code-XUDJAYL"
+        },
+        {
+            "filename": "image-hero-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/image-hero-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 96524,
+            "dimensions": [
+                795,
+                578
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-businessman-wearing-glasses-holding-laptop-i-JLUFGPE"
+        },
+        {
+            "filename": "home-hero-element-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/home-hero-element-2.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 27267,
+            "dimensions": [
+                345,
+                214
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-hero-element.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/home-hero-element.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 54888,
+            "dimensions": [
+                327,
+                335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-blue-eyed-guy-ponders-on-something-sta-JWVPPAM"
+        },
+        {
+            "filename": "profile.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/profile.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 12785,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/job-resume-icon-WR9X9SF"
+        },
+        {
+            "filename": "search.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/search.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 12033,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/job-resume-icon-WR9X9SF"
+        },
+        {
+            "filename": "message.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/message.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 12796,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/job-resume-icon-WR9X9SF"
+        },
+        {
+            "filename": "home-hero-element-3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/home-hero-element-3.png",
+            "templates": [
+                {
+                    "source": "templates\/01-homepage.json",
+                    "name": "01-Homepage"
+                }
+            ],
+            "filesize": 67098,
+            "dimensions": [
+                638,
+                592
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hirework-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/recruitmentkit\/wp-content\/uploads\/sites\/115\/2022\/12\/hirework-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder - Footer (Elementor Pro)"
+                }
+            ],
+            "filesize": 8889,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/success-logo-template-ALC64P"
+        }
+    ]
+}

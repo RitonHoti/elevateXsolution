@@ -1,0 +1,2203 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Elito - Creative Portfolio Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito - Home Page",
+            "screenshot": "screenshots\/elito-home-page.png",
+            "source": "templates\/elito-home-page.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-home-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Home Style 2",
+            "screenshot": "screenshots\/elito-home-style-2.png",
+            "source": "templates\/elito-home-style-2.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-home-style-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Homes Style 3",
+            "screenshot": "screenshots\/elito-homes-style-3.png",
+            "source": "templates\/elito-homes-style-3.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-homes-style-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-About Page",
+            "screenshot": "screenshots\/elito-about-page.png",
+            "source": "templates\/elito-about-page.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Service Page",
+            "screenshot": "screenshots\/elito-service-page.png",
+            "source": "templates\/elito-service-page.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-service-page\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Service Single Page",
+            "screenshot": "screenshots\/elito-service-single-page.png",
+            "source": "templates\/elito-service-single-page.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-service-single-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Portfolio Grid",
+            "screenshot": "screenshots\/elito-portfolio-grid.png",
+            "source": "templates\/elito-portfolio-grid.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-portfolio-grid\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Portfolio Masonary",
+            "screenshot": "screenshots\/elito-portfolio-masonary.png",
+            "source": "templates\/elito-portfolio-masonary.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-portfolio-masonary\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Portfolio Slider",
+            "screenshot": "screenshots\/elito-portfolio-slider.png",
+            "source": "templates\/elito-portfolio-slider.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-portfolio-slider\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Portfolio Single",
+            "screenshot": "screenshots\/elito-portfolio-single.png",
+            "source": "templates\/elito-portfolio-single.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-portfolio-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Blog Right Sidebar",
+            "screenshot": "screenshots\/elito-blog-right-sidebar.png",
+            "source": "templates\/elito-blog-right-sidebar.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-blog-right-sidebar\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Blog Left Sidebar",
+            "screenshot": "screenshots\/elito-blog-left-sidebar.png",
+            "source": "templates\/elito-blog-left-sidebar.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-blog-left-sidebar\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Blog fullwidth",
+            "screenshot": "screenshots\/elito-blog-fullwidth.png",
+            "source": "templates\/elito-blog-fullwidth.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-blog-fullwidth\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Blog Post Details",
+            "screenshot": "screenshots\/elito-blog-post-details.png",
+            "source": "templates\/elito-blog-post-details.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-blog-post-details\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Contact",
+            "screenshot": "screenshots\/elito-contact.png",
+            "source": "templates\/elito-contact.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Contact form",
+            "screenshot": "screenshots\/elito-contact-form.png",
+            "source": "templates\/elito-contact-form.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Portfolio Single form",
+            "screenshot": "screenshots\/elito-portfolio-single-form.png",
+            "source": "templates\/elito-portfolio-single-form.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-portfolio-single-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Service single form",
+            "screenshot": "screenshots\/elito-service-single-form.png",
+            "source": "templates\/elito-service-single-form.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-service-single-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-404-Error-Page",
+            "screenshot": "screenshots\/elito-404-error-page.png",
+            "source": "templates\/elito-404-error-page.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-404-error-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Elito-Services Newsletter form",
+            "screenshot": "screenshots\/elito-services-newsletter-form.png",
+            "source": "templates\/elito-services-newsletter-form.json",
+            "preview_url": "https:\/\/wpolive.com\/elitokit\/template-kit\/elito-services-newsletter-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Element Pack Lite - Addons for Elementor",
+            "version": "5.4.10",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.18.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo2.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8186,
+            "dimensions": [
+                185,
+                63
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "footer-bg.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/footer-bg-800x498.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 122546,
+            "dimensions": [
+                1920,
+                1196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "main-bg.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/main-bg-800x390.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-404-error-page.json",
+                    "name": "Elito-404-Error-Page"
+                }
+            ],
+            "filesize": 181256,
+            "dimensions": [
+                1920,
+                935
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                }
+            ],
+            "filesize": 273766,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-handsome-man-wearing-glasses-looking-a-NM7KTN7"
+        },
+        {
+            "filename": "photoshop-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/photoshop-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 1743,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "illustrator-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/illustrator-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 1578,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sketch-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/sketch-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 2306,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/sketch_732244?term=sketch&page=1&position=1&origin=search&related_id=732244"
+        },
+        {
+            "filename": "shield-flash-line-1-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/shield-flash-line-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 1238,
+            "dimensions": [
+                62,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/verified_2438078?term=shield&page=1&position=3&origin=search&related_id=2438078"
+        },
+        {
+            "filename": "Services-2.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Services-2-800x431.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 273893,
+            "dimensions": [
+                1920,
+                1035
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Services.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Services-800x431.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-service-page.json",
+                    "name": "Elito-Service Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                }
+            ],
+            "filesize": 273739,
+            "dimensions": [
+                1920,
+                1035
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Ellipse-8-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Ellipse-8-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                }
+            ],
+            "filesize": 92470,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 5030,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/d-hexagon-letter-logo-SPXRES"
+        },
+        {
+            "filename": "2-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 6008,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/technology-logo-WARPAR"
+        },
+        {
+            "filename": "i3.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/i3.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 5394,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/technology-logo-7AV5VZ"
+        },
+        {
+            "filename": "4-2.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/4-2.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                }
+            ],
+            "filesize": 4651,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/technology-logo-Y3VAKU"
+        },
+        {
+            "filename": "self-growth-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/self-growth-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                }
+            ],
+            "filesize": 2197,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/self-growth_1184800?term=self+growth&page=1&position=3&origin=search&related_id=1184800"
+        },
+        {
+            "filename": "Image-3.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Image-3.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                },
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                }
+            ],
+            "filesize": 103131,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Image-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                },
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                }
+            ],
+            "filesize": 134708,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-2.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Image-2.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                },
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                }
+            ],
+            "filesize": 81615,
+            "dimensions": [
+                368,
+                370
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Testimonial-1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Testimonial-1-800x289.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 85794,
+            "dimensions": [
+                1920,
+                693
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-2-3.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/img-2-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 65380,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/redhead-businesswoman-walks-in-urban-place-holds-t-PG5PRVX"
+        },
+        {
+            "filename": "ts4.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/ts4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 6381,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-successful-bearded-business-man-outdoor-usin-J9KZF4T"
+        },
+        {
+            "filename": "ts6.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/ts6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 6643,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-beautiful-young-woman-in-hijab-and-sports-PK3MQ5S"
+        },
+        {
+            "filename": "ts8.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/ts8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 5209,
+            "dimensions": [
+                45,
+                45
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-XSHKQMR"
+        },
+        {
+            "filename": "ts7.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/ts7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 5721,
+            "dimensions": [
+                45,
+                45
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-businessman-posing-outdoor-4JHE9DX"
+        },
+        {
+            "filename": "ts5.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/ts5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 7780,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-in-pottery-class-portrait-UFM2RNS"
+        },
+        {
+            "filename": "ts1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/ts1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 4014,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-handsome-man-with-beard-and-mustache-EBBJ4HL"
+        },
+        {
+            "filename": "ts3.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/ts3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 4518,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fashion-photo-of-young-magnificent-woman-P25TJZM"
+        },
+        {
+            "filename": "ts2.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/ts2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 6098,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/black-man-in-white-suit-near-wall-4K8V888"
+        },
+        {
+            "filename": "Ellipse-19.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/Ellipse-19.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 406263,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "blog-bg.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/blog-bg-800x498.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-page.json",
+                    "name": "Elito - Home Page"
+                },
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                },
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                }
+            ],
+            "filesize": 123418,
+            "dimensions": [
+                1920,
+                1196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "slide-1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/slide-1-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                }
+            ],
+            "filesize": 133361,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-handsome-man-with-beard-and-mustache-EBBJ4HL"
+        },
+        {
+            "filename": "slide-2.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/slide-2-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-home-style-2.json",
+                    "name": "Elito-Home Style 2"
+                }
+            ],
+            "filesize": 158901,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-handsome-bearded-man-in-trendy-suit-posing-MSDXED8"
+        },
+        {
+            "filename": "slide-3.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/slide-3-800x438.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                }
+            ],
+            "filesize": 95597,
+            "dimensions": [
+                1920,
+                1050
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fashion-photo-of-young-magnificent-woman-P25TJZM"
+        },
+        {
+            "filename": "about2-2.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/about2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-homes-style-3.json",
+                    "name": "Elito-Homes Style 3"
+                },
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                }
+            ],
+            "filesize": 227935,
+            "dimensions": [
+                530,
+                625
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/brunette-stylish-casual-girl-in-cap-and-sunglasses-NLRW3PD"
+        },
+        {
+            "filename": "page-title.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/page-title-800x146.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-service-page.json",
+                    "name": "Elito-Service Page"
+                },
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                },
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-fullwidth.json",
+                    "name": "Elito-Blog fullwidth"
+                },
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                },
+                {
+                    "source": "templates\/elito-contact.json",
+                    "name": "Elito-Contact"
+                }
+            ],
+            "filesize": 87637,
+            "dimensions": [
+                1920,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "p4.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/p4.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-service-page.json",
+                    "name": "Elito-Service Page"
+                },
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                },
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-contact.json",
+                    "name": "Elito-Contact"
+                }
+            ],
+            "filesize": 4208,
+            "dimensions": [
+                168,
+                110
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cyber-security-logos-and-icons-set-QRH2CF"
+        },
+        {
+            "filename": "p2.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/p2.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-service-page.json",
+                    "name": "Elito-Service Page"
+                },
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                },
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-contact.json",
+                    "name": "Elito-Contact"
+                }
+            ],
+            "filesize": 3051,
+            "dimensions": [
+                168,
+                110
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cyber-security-logos-and-icons-set-QRH2CF"
+        },
+        {
+            "filename": "p3.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/p3.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-service-page.json",
+                    "name": "Elito-Service Page"
+                },
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                },
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-contact.json",
+                    "name": "Elito-Contact"
+                }
+            ],
+            "filesize": 4399,
+            "dimensions": [
+                168,
+                110
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cyber-security-logos-and-icons-set-QRH2CF"
+        },
+        {
+            "filename": "p1-1.png",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/p1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/elito-about-page.json",
+                    "name": "Elito-About Page"
+                },
+                {
+                    "source": "templates\/elito-service-page.json",
+                    "name": "Elito-Service Page"
+                },
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                },
+                {
+                    "source": "templates\/elito-portfolio-slider.json",
+                    "name": "Elito-Portfolio Slider"
+                },
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-contact.json",
+                    "name": "Elito-Contact"
+                }
+            ],
+            "filesize": 3984,
+            "dimensions": [
+                168,
+                110
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cyber-security-logos-and-icons-set-QRH2CF"
+        },
+        {
+            "filename": "2-5.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/2-5-800x465.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                }
+            ],
+            "filesize": 346174,
+            "dimensions": [
+                897,
+                521
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-programmer-wrapped-up-in-work-CAS82B9"
+        },
+        {
+            "filename": "3-4.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/3-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                }
+            ],
+            "filesize": 129721,
+            "dimensions": [
+                433,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-mobile-developer-writes-program-code-o-FHC7BZM"
+        },
+        {
+            "filename": "4-3.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/4-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                }
+            ],
+            "filesize": 133069,
+            "dimensions": [
+                433,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-it-technician-close-up-LKKHPFK"
+        },
+        {
+            "filename": "gl6.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 212039,
+            "dimensions": [
+                585,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-businessman-in-custom-jacket-in-dark-backgr-MF8EK67"
+        },
+        {
+            "filename": "gl4.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 127852,
+            "dimensions": [
+                585,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cool-and-pensive-woman-with-dark-skin-and-attitude-69RDEZP"
+        },
+        {
+            "filename": "gl3.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 230808,
+            "dimensions": [
+                585,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dark-portrait-of-the-woman-behind-the-wet-window-a-LCTVUEK"
+        },
+        {
+            "filename": "gl2.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 100949,
+            "dimensions": [
+                585,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/studio-shot-of-a-man-wearing-sunglasses-while-posi-D6KQ2TD"
+        },
+        {
+            "filename": "img-6-1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/img-6-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 166859,
+            "dimensions": [
+                585,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cool-woman-with-dark-skin-wearing-round-sunglasses-PYV8SGQ"
+        },
+        {
+            "filename": "gl5.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-service-single-page.json",
+                    "name": "Elito-Service Single Page"
+                },
+                {
+                    "source": "templates\/elito-portfolio-grid.json",
+                    "name": "Elito-Portfolio Grid"
+                },
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 109169,
+            "dimensions": [
+                585,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lady-in-the-dark-GQQE3W7"
+        },
+        {
+            "filename": "gl8.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                }
+            ],
+            "filesize": 184342,
+            "dimensions": [
+                540,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cool-woman-with-dark-skin-wearing-round-sunglasses-PYV8SGQ"
+        },
+        {
+            "filename": "gl9.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                }
+            ],
+            "filesize": 46030,
+            "dimensions": [
+                540,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/studio-shot-of-a-man-wearing-sunglasses-while-posi-D6KQ2TD"
+        },
+        {
+            "filename": "gl7.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                }
+            ],
+            "filesize": 203265,
+            "dimensions": [
+                540,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/black-man-in-trendy-outfit-on-dark-background-DV8AQ2M"
+        },
+        {
+            "filename": "gl10.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/gl10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-portfolio-masonary.json",
+                    "name": "Elito-Portfolio Masonary"
+                }
+            ],
+            "filesize": 81019,
+            "dimensions": [
+                540,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-cool-woman-with-dark-skin-wearing-roun-EMVG7TB"
+        },
+        {
+            "filename": "single2.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/single2-800x424.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                }
+            ],
+            "filesize": 328604,
+            "dimensions": [
+                1320,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/top-view-of-low-key-black-office-desk-with-noteboo-PAQX3P2"
+        },
+        {
+            "filename": "single3.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/single3-800x424.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                }
+            ],
+            "filesize": 459188,
+            "dimensions": [
+                1320,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/top-view-of-pitch-black-office-desk-with-computer--PUCDR92"
+        },
+        {
+            "filename": "single5-1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/single5-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                }
+            ],
+            "filesize": 110867,
+            "dimensions": [
+                570,
+                390
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/top-view-of-pitch-black-office-desk-with-computer--PUCDR92"
+        },
+        {
+            "filename": "single7-1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/single7-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-portfolio-single.json",
+                    "name": "Elito-Portfolio Single"
+                }
+            ],
+            "filesize": 102881,
+            "dimensions": [
+                570,
+                390
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/laptop-and-office-supplies-at-dark-gray-desk-P2EP3W6"
+        },
+        {
+            "filename": "about-widget-1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/about-widget-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-blog-right-sidebar.json",
+                    "name": "Elito-Blog Right Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-left-sidebar.json",
+                    "name": "Elito-Blog Left Sidebar"
+                },
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 26410,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fashion-photo-of-young-magnificent-woman-P25TJZM"
+        },
+        {
+            "filename": "img-6.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/img-6-800x474.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 135329,
+            "dimensions": [
+                868,
+                514
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hacker-programmer-using-computer-in-dark-room-Y9PQ2LS"
+        },
+        {
+            "filename": "b-details1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/b-details1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 116706,
+            "dimensions": [
+                419,
+                285
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-it-technician-close-up-LKKHPFK"
+        },
+        {
+            "filename": "b-details2.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/b-details2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 107760,
+            "dimensions": [
+                419,
+                285
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-mobile-developer-writes-program-code-o-FHC7BZM"
+        },
+        {
+            "filename": "author4.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/author4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 6524,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/brunette-stylish-casual-girl-in-cap-and-sunglasses-NLRW3PD"
+        },
+        {
+            "filename": "author2.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/author2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 8216,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-XSHKQMR"
+        },
+        {
+            "filename": "author3.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/author3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 6713,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-handsome-bearded-man-in-trendy-suit-posing-MSDXED8"
+        },
+        {
+            "filename": "author1-1.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/author1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-blog-post-details.json",
+                    "name": "Elito-Blog Post Details"
+                }
+            ],
+            "filesize": 8535,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-beautiful-young-woman-in-hijab-and-sports-PK3MQ5S"
+        },
+        {
+            "filename": "contact-bg.jpg",
+            "thumbnail_url": "https:\/\/wpolive.com\/elitokit\/wp-content\/uploads\/2023\/12\/contact-bg-800x498.jpg",
+            "templates": [
+                {
+                    "source": "templates\/elito-contact.json",
+                    "name": "Elito-Contact"
+                }
+            ],
+            "filesize": 122492,
+            "dimensions": [
+                1920,
+                1196
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
